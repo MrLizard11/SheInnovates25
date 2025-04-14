@@ -1,0 +1,427 @@
+State,City,Median-Salary
+Alabama,Anniston-Oxford-Jacksonville,86620
+Alabama,Auburn-Opelika,95360
+Alabama,Birmingham-Hoover,105930
+Alabama,Columbus,111370
+Alabama,Daphne-Fairhope-Foley,101050
+Alabama,Decatur,114910
+Alabama,Dothan,90850
+Alabama,Florence-Muscle-Shoals,90440
+Alabama,Huntsville,120260
+Alabama,Mobile,105530
+Alabama,Montgomery,100350
+Alabama,Tuscaloosa,97650
+Alaska,Anchorage,143420
+Arizona,Flagstaff,110110
+Arizona,Lake-Havasu-City-Kingman,114520
+Arizona,Phoenix-Mesa-Scottsdale,129100
+Arizona,Prescott,121000
+Arizona,Sierra-Vista-Douglas,119440
+Arizona,Tucson,125750
+Arizona,Yuma,111150
+Arkansas,Fayetteville-Springdale-Rogers,100160
+Arkansas,Fort-Smith,96200
+Arkansas,Hot-Springs,113990
+Arkansas,Jonesboro,89620
+Arkansas,Little-Rock-North-Conway,101500
+Arkansas,Memphis,115680
+Arkansas,Texarkana,107010
+California,Bakersfield,135060
+California,Chico,120990
+California,El-Centro,121360
+California,Frenso,127890
+California,Los-Angeles-Long-Beach-Anaheim,151780
+California,Madera,112190
+California,Merced,128600
+California,Modesto,120850
+California,Napa,147020
+California,Oxnard-Thousand-Oaks-Ventura,139920
+California,Redding,129290
+California,Riverside-San-Bernardino-Ontario,134400
+California,Sacramento-Roseville-Arden-Arcade,146490
+California,Salinas,142360
+California,San-Diego-Carlsbad,152270
+California,San-Francisco-Oakland-Hayward,181220
+California,San-Jose-Sunnyvale-Santa-Clara,199800
+California,San-Luis-Obispo-Paso-Robles-Arroyo-Grande,136220
+California,Santa-Cruz-Watsonville,141830
+California,Santa-Maria-Santa-Barbara,156470
+California,Santa-Rosa,144350
+California,Stockton-Lodi,134060
+California,Vallejo-Fairfield,135490
+California,Visalia-Porterville,132550
+California,Yuba-City,136130
+Colorado,Boulder,182650
+Colorado,Colorado-Springs,133200
+Colorado,Denver-Aurora-Lakewood,139670
+Colorado,Fort-Collins,128170
+Colorado,Grand-Junction,117890
+Colorado,Greeley,129550
+Colorado,Pueblo,116140
+Connecticut,Bridgeport-Stamford-Norwalk,141690
+Connecticut,Danbury,127040
+Connecticut,Hartford,124980
+Connecticut,New-Haven,123000
+Connecticut,Norwich-New-London-Westerly,119010
+Connecticut,Springfield,117900
+Delaware,Dover,115910
+Delaware,Philadelphia-Camden-Wilmington,125850
+Delaware,Salisbury,127150
+District of Columbia,Washington-Arlington-Alexandria,148480
+Florida,Cape-Coral-Fort-Myers,115160
+Florida,Crestview-Fort-Walton-Beach-Destin,118340
+Florida,Deltona-Daytona-Beach-Ormond-Beach,109920
+Florida,Gainesville,96580
+Florida,Homosassa-Springs,117750
+Florida,Jacksonville,118560
+Florida,Lakeland-Winter-Haven,109240
+Florida,Miami-Fort-Lauderdale-West-Palm-Beach,125700
+Florida,Naples-Immokalee-Marco-Island,121080
+Florida,North-Port-Sarasota-Bradenton,119340
+Florida,Ocala,112750
+Florida,Orlando-Kissimmee-Sanford,116600
+Florida,Palm-Bay-Melbourne-Titusville,126200
+Florida,Panama-City,107280
+Florida,Pensacola-Ferry-Pass-Brent,103790
+Florida,Port-St.-Lucie,113530
+Florida,Punta-Gorda,120160
+Florida,Sebastian-Vero-Beach,110040
+Florida,Tallahassee,97020
+Florida,Tampa-St.-Petersburg-Clearwater,117010
+Florida,The-Villages,103680
+Georgia,Athens-Clarke-County,99530
+Georgia,Atlanta-Sandy-Springs-Roswell,127720
+Georgia,Augusta-Richmond-County,116830
+Georgia,Brunswick,112200
+Georgia,Chattanooga,107290
+Georgia,Columbus,111370
+Georgia,Dalton,103830
+Georgia,Gainesville,121070
+Georgia,Macon,117090
+Georgia,Rome,117330
+Georgia,Savannah,111870
+Georgia,Valdosta,100730
+Georgia,Warner-Robins,110900
+Hawaii,Kahului-Wailuku-Lahaina,130740
+Hawaii,Urban-Honolulu,111060
+Idaho,Boise-City,151620
+Idaho,Coeur-d'Alene,142500
+Idaho,Idaho-Falls,129710
+Idaho,Lewiston,135000
+Idaho,Logan,104670
+Idaho,Pocatello,107530
+Illinois,Cape-Girardeau,79560
+Illinois,Carbondale-Marion,109510
+Illinois,Champaign-Urbana,117070
+Illinois,Chicago-Naperville-Elgin,127960
+Illinois,Danville,104580
+Illinois,Davenport-Moline-Rock-Island,112180
+Illinois,Decatur,108680
+Illinois,Kankakee,117290
+Illinois,Peoria,114730
+Illinois,Rockford,112440
+Illinois,St.-Louis,112390
+Illinois,Springfield,115870
+Indiana,Bloomington,106240
+Indiana,Chicago-Naperville-Elgin,127960
+Indiana,Cincinnati,113020
+Indiana,Columbus,95660
+Indiana,Elkhart-Goshen,108620
+Indiana,Evansville,99370
+Indiana,Fort-Wayne,112330
+Indiana,Indianapolis-Carmel-Anderson,114070
+Indiana,Kokomo,130050
+Indiana,Lafayette-West-Lafayette,77890
+Indiana,Louisville,111340
+Indiana,Michigan-City-La-,98680
+Indiana,Muncie,100710
+Indiana,South-Bend-Mishawaka,103030
+Indiana,Terre-Haute,105820
+Iowa,Ames,109800
+Iowa,Cedar-Rapids,108320
+Iowa,Davenport-Moline-Rock-Island,112180
+Iowa,Des-Moines-West-Des-Moines,112790
+Iowa,Dubuque,111240
+Iowa,Iowa-City,100050
+Iowa,Omaha-Council-Bluffs,116090
+Iowa,Sioux-City,97020
+Iowa,Waterloo-Cedar-Falls,102960
+Kansas,Kansas-City,112960
+Kansas,Lawrence,103790
+Kansas,Manhattan,100150
+Kansas,St.-Joseph,90990
+Kansas,Topeka,100180
+Kansas,Wichita,105630
+Kentucky,Bowling-Green,98970
+Kentucky,Cincinnati,113020
+Kentucky,Clarksville,102950
+Kentucky,Elizabethtown-Fort-Knox,95250
+Kentucky,Evansville,99370
+Kentucky,Huntington-Ashland,92770
+Kentucky,Lexington-Fayette,108290
+Kentucky,Louisville,111340
+Kentucky,Owensboro,85610
+Louisiana,Baton-Rouge,109540
+Louisiana,Hammond,107290
+Louisiana,Houma-Thibodaux,104110
+Louisiana,Lafayette,104070
+Louisiana,Lake-Charles,114230
+Louisiana,Monroe,112280
+Louisiana,New-Orleans-Metairie,140890
+Maine,Bangor,110090
+Maine,Dover-Durham,123200
+Maine,Lewiston-Auburn,118060
+Maine,Portland-South-Portland,118740
+Maine,Portsmouth,133250
+Maryland,Baltimore-Columbia-Towson,152120
+Maryland,California-Lexington-Park,139480
+Maryland,Cumberland,115640
+Maryland,Hagerstown-Martinsburg,119900
+Maryland,Philadelphia-Camden-Wilmington,125850
+Maryland,Salisbury,127150
+Maryland,Washington-Arlington-Alexandria,148480
+Massachusetts,Barnstable-Town,132980
+Massachusetts,Boston-Cambridge-Nashua,148100
+Massachusetts,Leominster-Gardner,126280
+Massachusetts,New-Bedford,128300
+Massachusetts,Pittsfield,125430
+Massachusetts,Providence-Warwick,131000
+Massachusetts,Springfield,117900
+Massachusetts,Worcester,134240
+Michigan,Ann-Arbor,119280
+Michigan,Battle-Creek,99180
+Michigan,Bay-City,108050
+Michigan,Detroit-Warren-Dearborn,114870
+Michigan,Flint,103340
+Michigan,Grand-Rapids-Wyoming,102490
+Michigan,Jackson,102490
+Michigan,Kalamazoo-Portage,105670
+Michigan,Lansing-East-Lansing,97750
+Michigan,Midland,121410
+Michigan,Monroe,109720
+Michigan,Muskegon,94330
+Michigan,Niles-Benton-Harbor,109210
+Michigan,Saginaw,97260
+Michigan,South-Bend-Mishawaka,103030
+Minnesota,Duluth,118630
+Minnesota,Fargo,106870
+Minnesota,Grand-Forks,102280
+Minnesota,La-Crosse-Onalaska,105610
+Minnesota,Mankato-North-Mankato,99980
+Minnesota,Minneapolis-St.-Paul-Bloomington,122930
+Minnesota,Rochester,124440
+Minnesota,St.-Cloud,105390
+Mississippi,Gulfport-Biloxi-Pascagoula,93990
+Mississippi,Hattiesburg,70740
+Mississippi,Jackson,90840
+Mississippi,Memphis,115680
+Missouri,Cape-Girardeau,79560
+Missouri,Columbia,99300
+Missouri,Fayetteville-Springdale-Rogers,100160
+Missouri,Jefferson-City,98960
+Missouri,Joplin,105570
+Missouri,Kansas-City,112960
+Missouri,St.-Joseph,90990
+Missouri,St.-Louis,112390
+Missouri,Springfield,96760
+Montana,Billings,107990
+Montana,Great-Falls,109190
+Montana,Missoula,121420
+Nebraska,Grand-Island,99710
+Nebraska,Lincoln,101050
+Nebraska,Omaha-Council-Bluffs,116090
+Nebraska,Sioux-City,97020
+Nevada,Carson-City,132750
+Nevada,Las-Vegas-Henderson-Paradise,131570
+Nevada,Reno,137520
+New Hampshire,Boston-Cambridge-Nashua,148100
+New Hampshire,Dover-Durham,123200
+New Hampshire,Manchester,127580
+New Hampshire,Portsmouth,133250
+New Jersey,Allentown-Bethlehem-Easton,112220
+New Jersey,Atlantic-City-Hammonton,128820
+New Jersey,New-York-Newark-Jersey-City,152100
+New Jersey,Ocean-City,115930
+New Jersey,Philadelphia-Camden-Wilmington,125850
+New Jersey,Trenton,129810
+New Jersey,Vineland-Bridgeton,131700
+New Mexico,Albuquerque,127590
+New Mexico,Farmington,125310
+New Mexico,Las-Cruces,117470
+New Mexico,Santa-Fe,108370
+New York,Albany-Schenectady-Troy,114830
+New York,Binghamton,116540
+New York,Buffalo-Cheektowaga-Niagara-Falls,121320
+New York,Elmira,103060
+New York,Glens-Falls,127080
+New York,Ithaca,112660
+New York,Kingston,125070
+New York,New-York-Newark-Jersey-City,152100
+New York,Rochester,115160
+New York,Syracuse,123980
+New York,Utica-Rome,109420
+New York,Watertown-Fort-Drum,116290
+North Carolina,Asheville,110230
+North Carolina,Burlington,115940
+North Carolina,Charlotte-Concord-Gastonia,134550
+North Carolina,Durham-Chapel-Hill,141390
+North Carolina,Fayetteville,113410
+North Carolina,Goldsboro,125740
+North Carolina,Greensboro-High-Point,120000
+North Carolina,Greenville,103470
+North Carolina,Hickory-Lenoir-Morganton,124480
+North Carolina,Jacksonville,107590
+North Carolina,Myrtle-Beach-Conway-North-Myrtle-Beach,108230
+North Carolina,New-Bern,112460
+North Carolina,Raleigh,132300
+North Carolina,Rocky-Mount,115050
+North Carolina,Virginia-Beach-Norfolk-Newport-News,123190
+North Carolina,Wilmington,126520
+North Carolina,Winston-Salem,123260
+North Dakota,Bismarck,106810
+North Dakota,Fargo,106870
+North Dakota,Grand-Forks,102280
+Ohio,Akron,107800
+Ohio,Cincinnati,101120
+Ohio,Cleveland-Elyria,113020
+Ohio,Columbus,120790
+Ohio,Dayton,109710
+Ohio,Mansfield,92770
+Ohio,Toledo,103260
+Ohio,Youngstown-Warren-Boardman,101110
+Oklahoma,Enid,90910
+Oklahoma,Lawton,96200
+Oklahoma,Oklahoma-City,92280
+Oklahoma,Stillwater,112850
+Oklahoma,Tulsa,110760
+Oregon,Bend,124680
+Oregon,Eugene,124410
+Oregon,Medford,119730
+Oregon,Portland-Vancouver-Hillsboro,135430
+Oregon,Salem,115800
+Pennsylvania,Allentown-Bethlehem-Easton,112220
+Pennsylvania,Altoona,97650
+Pennsylvania,Bloomsburg-Berwick,105140
+Pennsylvania,Chambersburg-Waynesboro,109700
+Pennsylvania,East-Stroudsburg,108470
+Pennsylvania,Erie,102430
+Pennsylvania,Harrisburg-Carlisle,110120
+Pennsylvania,Johnstown,100460
+Pennsylvania,Lancaster,106520
+Pennsylvania,Lebanon,102080
+Pennsylvania,New-York-Newark-Jersey-City,152100
+Pennsylvania,Philadelphia-Camden-Wilmington,125850
+Pennsylvania,Pittsburgh,112490
+Pennsylvania,Reading,110790
+Pennsylvania,Scranton--Wilkes-Barre--Hazleton,108470
+Pennsylvania,State-College,110690
+Pennsylvania,Williamsport,100920
+Pennsylvania,York-Hanover,110090
+Pennsylvania,Youngstown-Warren-Boardman,102140
+Rhode Island,Norwich-New-London-Westerly,119010
+Rhode Island,Providence-Warwick,131000
+South Carolina,Augusta-Richmond-County,116830
+South Carolina,Charleston-North-Charleston,122340
+South Caroline,Charlotte-Concord-Gastonia,134550
+South Carolina,Columbia,117870
+South Carolina,Florence,107620
+South Carolina,Greenville-Anderson-Mauldin,109230
+South Carolina,Hilton-Head-Island-Bluffton-Beaufort,126990
+South Carolina,Myrtle-Beach-Conway-North-Myrtle-Beach,108230
+South Carolina,Spartanburg,113200
+South Carolina,Sumter,112590
+South Dakota,Rapid-City,80920
+South Dakota,Sioux-City,97020
+South Dakota,Sioux-Falls,99560
+Tennesee,Chattanooga,107290
+Tennessee,Clarksville,102950
+Tennessee,Cleveland,108780
+Tennessee,Jackson,99150
+Tennessee,Johnson-City,102360
+Tennessee,Kingsport-Bristol-Bristol,112340
+Tennessee,Knoxville,110100
+Tennessee,Memphis,115680
+Tennessee,Morristown,99370
+Tennessee,Nashville-Davidson-Murfreesboro-Franklin,116620
+Texas,Abilene,104870
+Texas,Amarillo,88370
+Texas,Austin-Round-Rock,132500
+Texas,Beaumont-Port-Arthur,119240
+Texas,Brownsville-Harlingen,106930
+Texas,College-Station-Bryan,104650
+Texas,Corpus-Christi,113770
+Texas,Dallas-Fort-Worth-Arlington,128100
+Texas,El-Paso,108310
+Texas,Houston-The-Woodlands-Sugar-Land,126810
+Texas,Killeen-Temple,115240
+Texas,Laredo,106260
+Texas,Longview,107360
+Texas,Lubbock,92040
+Texas,McAllen-Edinburg-Mission,99590
+Texas,Midland,120880
+Texas,Odessa,117730
+Texas,San-Angelo,104440
+Texas,San-Antonio-New-Braunfels,121030
+Texas,Sherman-Denison,115420
+Texas,Texarkana,107010
+Texas,Tyler,112410
+Texas,Victoria,104000
+Texas,Waco,112820
+Texas,Wichita-Falls,110860
+Utah,Logan,104670
+Utah,Ogden-Clearfield,119700
+Utah,Provo-Orem,125970
+Utah,St.George,106670
+Utah,Salt-Lake-City,120910
+Vermont,Burlington-South-Burlington,121450
+Virginia,Blacksburg-Christiansburg-Radford,110670
+Virginia,Charlottesville,124410
+Virginia,Harrisonburg,108210
+Virginia,Kingsport-Bristol-Bristol,112340
+Virginia,Lynchburg,114710
+Virginia,Richmond,129440
+Virginia,Roanoke,105660
+Virginia,Staunton-Waynesboro,111030
+Virginia,Virginia-Beach-Norfolk-Newport-News,123190
+Virginia,Washington-Arlington-Alexandria,148480
+Virginia,Winchester,121000
+Washington,Bellingham,131250
+Washington,Bremerton-Silverdale,134580
+Washington,Kennewick-Richland,131970
+Washington,Lewiston,135000
+Washington,Longview,124820
+Washington,Mount-Vernon-Anacortes,127750
+Washington,Olympia-Tumwater,124010
+Washington,Portland-Vancouver-Hillsboro,135430
+Washington,Seattle-Tacoma-Bellevue,164130
+Washington,Spokane-Spokane-Valley,120610
+Washington,Walla-Walla,113570
+Washington,Wenatchee,134030
+Washington,Yakima,124660
+West Virginia,Beckley,78090
+West Virginia,Charleston,98680
+West Virginia,Cumberland,115640
+West Virginia,Hagerstown-Martinsburg,119900
+West Virginia,Huntington-Ashland,92770
+West Virginia,Morgantown,100830
+West Virginia,Washington-Arlington-Alexandria,148480
+West Virginia,Weirton-Steubenville,96840
+West Virginia,Wheeling,86670
+West Virginia,Winchester,121000
+Wisconsin,Appleton,105540
+Wisconsin,Chicago-Naperville-Elgin,127960
+Wisconsin,Dultuh,118630
+Wisconsin,Eau-Claire,103240
+Wisconsin,Fond-du-Lac,104670
+Wisconsin,Green-Bay,103810
+Wisconsin,Janesville-Beloit,88810
+Wisconsin,La-Crosse-Onalaska,105610
+Wisconsin,Madison,112490
+Wisconsin,Milwaukee-Waukesha-West-Allis,113280
+Wisconsin,Minneapolis-St.-Paul-Bloomington,122930
+Wisconsin,Oshkosh-Neenah,101110
+Wisconsin,Racine,96890
+Wisconsin,Sheboygan,98370
+Wisconsin,Wausau,100100
+Wyoming,Casoer,129540
+Wyoming,Cheyenne,107310
