@@ -1,4 +1,4 @@
-name: Build Application
+name: Build and Deploy Application
 
 on:
   push:
@@ -19,18 +19,18 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '16' # Specify your Node.js version
+          node-version: '16'
 
       - name: Install dependencies
         run: npm install
-        working-directory: ./sheinnovates2025 # Adjust to your folder path
+        working-directory: ./sheinnovates2025
 
       - name: Build the app
         run: npm run build
-        working-directory: ./sheinnovates2025 # Adjust to your folder path
+        working-directory: ./sheinnovates2025
 
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v4.6.2
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          name: build-output
-          path: ./sheinnovates2025/build # Adjust to your build output path
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./sheinnovates2025/build
