@@ -1,0 +1,36 @@
+name: Build Application
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16' # Specify your Node.js version
+
+      - name: Install dependencies
+        run: npm install
+        working-directory: ./sheinnovates2025 # Adjust to your folder path
+
+      - name: Build the app
+        run: npm run build
+        working-directory: ./sheinnovates2025 # Adjust to your folder path
+
+      - name: Upload build artifacts (optional)
+        uses: actions/upload-artifact@v3
+        with:
+          name: build-output
+          path: ./sheinnovates2025/build # Adjust to your build output path
