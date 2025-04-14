@@ -29,8 +29,8 @@ jobs:
         run: npm run build
         working-directory: ./sheinnovates2025 # Adjust to your folder path
 
-      - name: Upload build artifacts (optional)
-        uses: actions/upload-artifact@v2
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v3
         with:
           name: build-output
           path: ./sheinnovates2025/build # Adjust to your build output path
