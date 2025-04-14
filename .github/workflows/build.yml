@@ -30,7 +30,7 @@ jobs:
         working-directory: ./sheinnovates2025 # Adjust to your folder path
 
       - name: Upload Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4.6.2
         with:
           name: build-output
           path: ./sheinnovates2025/build # Adjust to your build output path
