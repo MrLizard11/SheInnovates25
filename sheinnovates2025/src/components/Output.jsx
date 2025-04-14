@@ -62,23 +62,23 @@ function Output() {
     };
 
     // Fetch median salary data
-    const fetchMedianSalary = async () => {
-      try {
-        // Assuming a request to get median salary from your backend, replace with actual endpoint
-        const response = await axios.get(
-          "http://127.0.0.1:5000/get-median-salary"
-        );
-        setMedianSalary(
-          response.data.medianSalary || "No median salary data available"
-        );
-      } catch (error) {
-        console.error("Error fetching median salary:", error);
-        setMedianSalary("Failed to fetch median salary data");
-      }
-    };
+    // const fetchMedianSalary = async () => {
+    //   try {
+    //     // Assuming a request to get median salary from your backend, replace with actual endpoint
+    //     const response = await axios.get(
+    //       "http://127.0.0.1:5000/get-median-salary"
+    //     );
+    //     setMedianSalary(
+    //       response.data.medianSalary || "No median salary data available"
+    //     );
+    //   } catch (error) {
+    //     console.error("Error fetching median salary:", error);
+    //     setMedianSalary("Failed to fetch median salary data");
+    //   }
+    // };
 
     fetchResumeData();
-    fetchMedianSalary();
+    //fetchMedianSalary();
   }, []);
 
   return (
