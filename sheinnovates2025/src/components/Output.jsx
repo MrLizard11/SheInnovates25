@@ -9,7 +9,7 @@ function Output() {
 
   const expectedSalary = location.state ? location.state.expectedSalary : null; // Get expected salary from state
   const [processedResume, setProcessedResume] = useState(""); // State to hold extracted resume
-  const [medianSalary, setMedianSalary] = useState(""); // State for median salary
+  //const [medianSalary, setMedianSalary] = useState(""); // State for median salary
   const [resumeID, setResumeID] = useState("");
 
   // Format the expected salary with commas
