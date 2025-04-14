@@ -101,14 +101,14 @@ function Output() {
       />
 
       {/* Expected Salary Section */}
-      <div id="salary_div" className="text-center mt-8">
-        <h3 className="text-lg font-semibold mb-4">Expected Salary</h3>
+      <div id="median_salary_div" className="text-center mt-8">
+        <h3 className="text-lg font-semibold mb-4">Median Salary</h3>
         <div
-          id="salary"
+          id="median_salary"
           className="border-2 border-blue-500 p-2 w-2/3 sm:w-1/3 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-600 transition duration-300 mx-auto"
-          readOnly // Make salary non-editable
+          readOnly // Make median salary non-editable
         >
-          {formattedSalary ? `$${formattedSalary}` : "No salary data available"}
+          {medianSalary ? `$${medianSalary}` : "No median salary data available"}
         </div>
       </div>
 
